@@ -3,6 +3,16 @@
    ========================================================================== */
 
 /*
+   Custom Changes MOY
+   ========================================================================== */
+
+$color-primary-0            : #3270FF; /* Main Primary color */
+$color-primary-1            : #85A9FE;
+$color-primary-2            : #5A8CFF;
+$color-primary-3            : #125AFF;
+$color-primary-4            : #0146E4;
+
+/*
    Typography
    ========================================================================== */
 
@@ -54,6 +64,7 @@ $light-gray                 : mix(#fff, $gray, 50%) !default;
 $lighter-gray               : mix(#fff, $gray, 90%) !default;
 
 $body-color                 : #fff !default;
+//$body-color                 : $color-primary-0 !default;
 $background-color           : #fff !default;
 $code-background-color      : #fafafa !default;
 $code-background-color-dark : $light-gray !default;
