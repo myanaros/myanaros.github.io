@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Security/Tech Blog"
+title                    : "Security/Software Blog"
 title_separator          : "-"
 name                     : "Mark Yanaros"
-description              : "Welcome to my site, I'm an App Sec Engineer at Appfolio. I use this to post
+description              : "Welcome to my site, I'm an Security Engineer at Appfolio. I use this to post
   about security research that I do on my own time. My main interests involve
   dynamic code analysis, and applying my undergrad computer science theory to the
   computer security problem domain."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "myanaros/minimal-mistakes"
+repository               : "myanaros/myanaros.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "myanaros"
+  username               : "markohwhy"
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mark Yanaros"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Computer Scientist and App Sec Engineer"
-  location         : "TX, USA"
+  bio              : "Computer Scientist and Security Engineer"
+  location         : "USA"
   email            :
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "markohwhy"
   vine             :
   weibo            :
   xing             :
